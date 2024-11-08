@@ -12,4 +12,4 @@ Ensure cmake is installed
 
 ```cd build/```
 
-```cmake ../NewtonianDynamica/Project/```
+```cmake ../NewtonianDynamica/```
